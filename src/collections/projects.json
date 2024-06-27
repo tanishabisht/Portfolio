@@ -1,0 +1,26 @@
+[
+	{
+		"name": "Minimal blue portfolio",
+		"description": "Minimalist themed portfolio template.",
+		"image": "/assets/images/projects/portfolio.png",
+		"url": "https://github.com/tanishabisht/Portfolio-MinimalBlue"
+	},
+	{
+		"name": "Eureka",
+		"description": "Getting out of ideas for your app? This application lists and filters based on your requirements.",
+		"image": "/assets/images/projects/eureka.jpeg",
+		"url": "https://github.com/tanishabisht/App-Eureka"
+	},
+	{
+		"name": "LunarOps",
+		"description": "A real-time collaboration logs or document notes keeper for Lunar Surface Operations.",
+		"image": "/assets/images/projects/lunarops.png",
+		"url": "https://github.com/tanishabisht/App-LunarOps"
+	},
+	{
+		"name": "Parallax portfolio",
+		"description": "Parallaxed themed portfolio template.",
+		"image": "/assets/images/projects/portfolio-parallax.png",
+		"url": "https://github.com/tanishabisht/Portfolio-Parallax"
+	}
+]

@@ -1,0 +1,2 @@
+# Tanisha Bisht - Personal portfolio website
+Welcome to the repository for my personal portfolio website. This site, crafted with the [Astro framework](https://astro.build), showcases my projects, skills, and experiences. Leveraging one of Astro's thoughtfully designed templates, I have tailored the website to reflect a clean and modern aesthetic.

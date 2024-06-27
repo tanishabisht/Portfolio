@@ -1,0 +1,19 @@
+---
+import projects from "../collections/projects.json";
+import Project from "../components/project.astro";
+const { count } = Astro.props;
+const projectsLoop = projects.slice(0, count);
+---
+
+{
+  projectsLoop.map((project) => {
+    return (
+      <Project
+        name={project.name}
+        description={project.description}
+        image={project.image}
+        url={project.url}
+      />
+    )
+  })
+}

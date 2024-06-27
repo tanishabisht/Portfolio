@@ -1,0 +1,51 @@
+[
+	{
+		"dates": "Jan 2024 . Present",
+		"role": "Research Assistant",
+		"company": "Columbia University",
+		"description": "Responsible to design, build and deploy open-source insurance tools to help farmers worldwide make decisions to adapt to climate change.",
+		"logo": "/assets/images/experiences/columbia.ico"
+	},
+	{
+		"dates": "Jan 2024 . May 2024",
+		"role": "Teaching Assistant",
+		"company": "Columbia University",
+		"description": "For course Computer Systems for Data Science.",
+		"logo": "/assets/images/experiences/columbia.ico"
+	},
+	{
+		"dates": "Mar 2020 . Jun 2023",
+		"role": "Software Engineer Intern",
+		"company": "InSynchro",
+		"description": "Responsible for developing adn integrating WhatsApp AI bot.",
+		"logo": "/assets/images/experiences/insynchro.ico"
+	},
+	{
+		"dates": "Dec 2022 . May 2023",
+		"role": "Fullstack Software Intern",
+		"company": "CIGS Technology",
+		"description": "Responsible for development, maintainance, and deployment of frontend code primarily using HTML, CSS, Sass, JavaScript, and jQuery.",
+		"logo": "/assets/images/experiences/cigs.ico"
+	},
+	{
+		"dates": "Jul 2021 . Oct 2021",
+		"role": "GitHub Extern 2021",
+		"company": "GitHub Externship, IncubateIND",
+		"description": "Responsible for coordinating user research, presenting findings to stakeholders, and desiging the User Interface.",
+		"logo": "/assets/images/experiences/github.ico"
+	},
+	{
+		"dates": "Sep 2021 . Jan 2023",
+		"role": "Technical Domain Head",
+		"company": "Biocom",
+		"description": "Responsible to mentor the technical team of 9 members for building multi-disciplinary projects.",
+		"logo": "/assets/images/experiences/biocom.ico"
+	},
+	{
+		"dates": "Dec 2021 . Jan 2022",
+		"role": "Blockchain Intern",
+		"company": "ClayStack",
+		"description": "Responsible for integration of smart contracts, ensuring industry standards and achieving 100% functional coverage.",
+		"logo": "/assets/images/experiences/claystack.ico"
+	}
+]
