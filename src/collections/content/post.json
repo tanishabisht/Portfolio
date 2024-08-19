@@ -1,7 +1,19 @@
 [
 	{
-		"title": "Understanding CMS - Traditional vs. Headless CMS Explained",
-		"description": "Discover the differences between traditional and headless CMS in our comprehensive guide. Learn how a Content Management System simplifies digital content management, and explore the benefits of modern headless CMS solutions, including Git-based and API-first options. Perfect for web developers and content managers looking to optimize their digital strategy.",
+		"title": "Unlocking Website Quality with Unlighthouse",
+		"description": "Discover how Unlighthouse simplifies website evaluations using Google Lighthouse, offering a faster and more user-friendly approach to improving site quality across performance, accessibility, best practices, and SEO.",
+		"dateFormatted": "Aug 10th, 2024",
+		"link": "/post/unlighthouse"
+	},
+	{
+		"title": "Maximizing Your Website's Efficiency: A Guide to Key Performance Metrics",
+		"description": "Learn how to enhance your website's overall performance by understanding and optimizing critical metrics like page speed, responsiveness, stability, and resource usage.",
+		"dateFormatted": "Aug 9th, 2024",
+		"link": "/post/website-performance"
+	},
+	{
+		"title": "Choosing Between Traditional and Headless CMS - What You Need to Know",
+		"description": "Explore the key differences between traditional and headless CMS in our guide. Learn how modern headless solutions, like Git-based and API-first options, can streamline digital content management and enhance your strategy.",
 		"dateFormatted": "Aug 8th, 2024",
 		"link": "/post/cms"
 	}

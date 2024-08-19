@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/post.astro
-title: Understanding CMS - Traditional vs. Headless CMS Explained
-description: Discover the differences between traditional and headless CMS in our comprehensive guide. Learn how a Content Management System simplifies digital content management, and explore the benefits of modern headless CMS solutions, including Git-based and API-first options. Perfect for web developers and content managers looking to optimize their digital strategy.
+title: Choosing Between Traditional and Headless CMS - What You Need to Know
+description: Explore the key differences between traditional and headless CMS in our guide. Learn how modern headless solutions, like Git-based and API-first options, can streamline digital content management and enhance your strategy.
 dateFormatted: Aug 8th, 2024
 ---
 
@@ -25,5 +25,5 @@ A Headless CMS, on the other hand, separates the frontend from the backend. This
 
 **Types of Headless CMS**
 
-- **Git-Based Headless CMS:** This system uses Git to manage and store content. It combines version control with content management, allowing developers to handle content as code. Changes are made on the platform but are updated and saved in Git. Examples include Netlify CMS and Forestry.
+- **Git-Based Headless CMS:** This system uses Git to manage and store content. It combines version control with content management, allowing developers to handle content as code. Changes are made on the platform but are updated and saved in Git. Examples include Netlify CMS (now Decap CMS) and Forestry (now Tina.io).
 - **API-First Headless CMS:** This system uses APIs to deliver content. Data is stored on the platform and can be accessed via APIs for use in various frontends. Changes made on the platform are directly reflected in the website. Examples include Contentful and Strapi.
