@@ -1,5 +1,29 @@
 [
 	{
+		"title": "Understanding How Websites Load: SSG, CSR, and SSR Explained",
+		"description": "Explore the differences between Static Site Generation, Client-Side Rendering, and Server-Side Rendering, and how popular frameworks like React, Angular, Vue, Next.js, Nuxt.js, and Astro fit into these methods.",
+		"dateFormatted": "Aug 14th, 2024",
+		"link": "/post/ssg-ssr-csr"
+	},
+	{
+		"title": "Difference Between Static and Dynamic Websites",
+		"description": "Understand the key differences between static and dynamic websites with simple examples and explanations.",
+		"dateFormatted": "Aug 13th, 2024",
+		"link": "/post/static-dynamic-website"
+	},
+	{
+		"title": "Single Page Applications vs Multi Page Applications",
+		"description": "Explore the differences between Single Page Applications (SPA) and Multi-Page Applications (MPA), and see how popular frontend frameworks like React, Angular, Vue, Next.js, Nuxt.js, and Astro fit into these architectures.",
+		"dateFormatted": "Aug 12th, 2024",
+		"link": "/post/spa-mpa"
+	},
+	{
+		"title": "Understanding the DOM: How HTML, CSS, and JavaScript Work Together",
+		"description": "Learn how the Document Object Model (DOM) acts as a bridge between HTML, CSS, and JavaScript, turning web pages into interactive experiences with easy-to-understand examples.",
+		"dateFormatted": "Aug 11th, 2024",
+		"link": "/post/dom"
+	},
+	{
 		"title": "Unlocking Website Quality with Unlighthouse",
 		"description": "Discover how Unlighthouse simplifies website evaluations using Google Lighthouse, offering a faster and more user-friendly approach to improving site quality across performance, accessibility, best practices, and SEO.",
 		"dateFormatted": "Aug 10th, 2024",
