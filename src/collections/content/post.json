@@ -1,5 +1,17 @@
 [
 	{
+		"title": "My UI Design Endeavors: BioCom Website Group 2-Week Sprint",
+		"description": "A behind-the-scenes look at a fast-paced, collaborative website redesign sprint for BioCom, transforming their online presence in just two weeks.",
+		"dateFormatted": "Aug 16th, 2024",
+		"link": "/post/ui-biocom"
+	},
+	{
+		"title": "My UI Design Endeavors: The Story Behind the TNAU Botanical Garden Website",
+		"description": "Exploring the journey from design to development, focusing on the tech stack choices that made it all possible.",
+		"dateFormatted": "Aug 15th, 2024",
+		"link": "/post/ui-tnau"
+	},
+	{
 		"title": "Understanding How Websites Load: SSG, CSR, and SSR Explained",
 		"description": "Explore the differences between Static Site Generation, Client-Side Rendering, and Server-Side Rendering, and how popular frameworks like React, Angular, Vue, Next.js, Nuxt.js, and Astro fit into these methods.",
 		"dateFormatted": "Aug 14th, 2024",
