@@ -1,5 +1,11 @@
 [
 	{
+		"title": "API vs. Git: Choosing the Right CMS for Your Website",
+		"description": "A straightforward guide to help you decide between API-based and Git-based CMSs by looking at real-world scenarios.",
+		"dateFormatted": "Aug 18th, 2024",
+		"link": "/post/cms-decap-tina"
+	},
+	{
 		"title": "My UI Design Endeavors: Smoothies UI Iterative Design Process",
 		"description": "A deep dive into the iterative design journey of a smoothies app, showcasing how initial concepts evolved into a vibrant and functional UI.",
 		"dateFormatted": "Aug 17th, 2024",
