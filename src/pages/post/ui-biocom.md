@@ -9,13 +9,9 @@ At BioCom, a dynamic multi-disciplinary community at SRM University in Chennai, 
 
 You can explore the final project on our [GitHub repository](https://github.com/Biocom-Tech/Biocom-Tech.github.io).
 
-<!-- Our previous website was functional but lacked the energy and modern feel we wanted. It was clear that it didn’t align with the vibrant, cutting-edge image we envisioned for BioCom. Here’s a glimpse of what we were working with:
-
-![Screenshot2](/assets/images/posts/cms.jpg) -->
-
 ### A Sprint Begins
 
-With our existing website not quite hitting the mark, we launched into a high-energy design sprint. As the tech team lead, I worked closely with Sudhanshu Singh, the head of BioCom’s design team, to kick off this project. Our mission was clear: revamp the website to capture BioCom’s essence while enhancing user experience. 
+With our existing website not quite hitting the mark, we launched into a high-energy design sprint. As the tech team lead, I worked closely with [Sudhanshu Singh](https://www.linkedin.com/in/viabreon/), the head of BioCom’s design team, to kick off this project. Our mission was clear: revamp the website to capture BioCom’s essence while enhancing user experience. 
 
 ### Day 1: Understanding and Defining
 

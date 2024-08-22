@@ -5,6 +5,10 @@ description: A straightforward comparison of these popular CMSs, using real-worl
 dateFormatted: Aug 19th, 2024
 ---
 
+
+
+
+
 When choosing a Content Management System (CMS) for your website, it’s important to understand the differences between your options. Here’s a clear comparison of four popular CMSs: Decap, Tina.io, Contentful, and Strapi, to help you decide which one is right for your project.
 
 ### Decap vs. Tina.io: Git-Based CMSs
@@ -15,9 +19,13 @@ When choosing a Content Management System (CMS) for your website, it’s importa
 
 ### Contentful vs. Strapi: API-Based CMSs
 
-**Contentful** is a well-established API-based CMS known for its powerful features and scalability. It’s suitable for large projects or enterprises with complex content needs. Contentful supports numerous integrations and offers robust tools for managing content. However, it can be complex and expensive, which might be overwhelming for smaller projects or those on a budget.
+**Contentful** is a well-established API-based CMS known for its powerful features and scalability. It’s suitable for large projects or enterprises with complex content needs. Contentful supports numerous integrations and offers robust tools for managing content. However, it can be complex and expensive, which might be overwhelming for smaller projects or those on a budget. For a quick introduction to Contentful, you can check out the video below by [DesignCode](https://www.youtube.com/@DesignCodeTeam).
 
-**Strapi** is an open-source API-based CMS that allows for greater flexibility and customization. You can set it up according to your specific needs and it’s generally easier to use than Contentful. However, being open-source means you’ll need to spend more time on setup and maintenance compared to a ready-made solution like Contentful. Strapi is a good choice if you want more control and customization but be prepared for more hands-on management.
+[![Video Title](https://img.youtube.com/vi/AWie7zwAyU0/0.jpg)](https://www.youtube.com/watch?v=AWie7zwAyU0)
+
+**Strapi** is an open-source API-based CMS that allows for greater flexibility and customization. You can set it up according to your specific needs and it’s generally easier to use than Contentful. However, being open-source means you’ll need to spend more time on setup and maintenance compared to a ready-made solution like Contentful. Strapi is a good choice if you want more control and customization but be prepared for more hands-on management. For a quick introduction to Strapi, you can check out the video below by [Coding After Thirty](https://www.youtube.com/@CodingAfterThirty).
+
+[![Video Title](https://img.youtube.com/vi/56h-FPt73Vs/0.jpg)](https://www.youtube.com/watch?v=56h-FPt73Vs)
 
 If you’re curious about how these tools might fit into your projects, you can also check out my GitHub repositories where I've worked with Decap CMS and Astro, and Next.js: [CMS Astro with Decap](https://github.com/tanishabisht/Demo-CMS-AstroDecap) and [CMS Next with Decap](https://github.com/tanishabisht/Demo-CMS-NextDecap).
 
