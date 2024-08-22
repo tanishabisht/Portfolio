@@ -1,9 +1,15 @@
 [
 	{
+		"title": "Decap, Tina.io, Contentful, Strapi: Which CMS Suits Your Needs?",
+		"description": "A straightforward comparison of these popular CMSs, using real-world scenarios to help you decide which one to choose.",
+		"dateFormatted": "Aug 19th, 2024",
+		"link": "/post/cms-decap-tina-contentful-strapi"
+	},
+	{
 		"title": "API vs. Git: Choosing the Right CMS for Your Website",
 		"description": "A straightforward guide to help you decide between API-based and Git-based CMSs by looking at real-world scenarios.",
 		"dateFormatted": "Aug 18th, 2024",
-		"link": "/post/cms-decap-tina"
+		"link": "/post/cms-api-git"
 	},
 	{
 		"title": "My UI Design Endeavors: Smoothies UI Iterative Design Process",
