@@ -5,9 +5,6 @@ description: Explore the key differences between traditional and headless CMS in
 dateFormatted: Aug 8th, 2024
 ---
 
-
-![Content Management System](/assets/images/posts/cms.jpg)
-
 **What is CMS?**
 
 A Content Management System (CMS) is software that allows users to create, manage, and modify digital content without needing technical knowledge. It simplifies the process of managing website content and design.
