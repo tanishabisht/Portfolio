@@ -24,3 +24,5 @@ A Headless CMS, on the other hand, separates the frontend from the backend. This
 
 - **Git-Based Headless CMS:** This system uses Git to manage and store content. It combines version control with content management, allowing developers to handle content as code. Changes are made on the platform but are updated and saved in Git. Examples include Netlify CMS (now Decap CMS) and Forestry (now Tina.io).
 - **API-First Headless CMS:** This system uses APIs to deliver content. Data is stored on the platform and can be accessed via APIs for use in various frontends. Changes made on the platform are directly reflected in the website. Examples include Contentful and Strapi.
+
+> **Wondering which headless CMS is right for your project?** Check out my next blog post [here](/post/cms-api-git)!

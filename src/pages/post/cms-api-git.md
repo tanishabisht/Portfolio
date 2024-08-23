@@ -16,3 +16,6 @@ Now, let’s dive into what’s happening under the hood. With a **Git-based CMS
 On the other hand, with an **API-based CMS**, the content is stored separately in a database and accessed via an API (which is just a way for different software to talk to each other). This means your content and your website are loosely connected. Your website can request the latest content whenever it’s needed, without needing to rebuild the entire site. This is super useful for larger, dynamic websites where content changes often.
 
 In summary, if you’re working on a simple website or blog, a Git-based CMS is probably the way to go. But if you’re dealing with a more complex project with dynamic content and multiple contributors, an API-based CMS will give you the flexibility you need. Understanding these differences will help you choose the right tool for your project, making your development process smoother and your website more efficient.
+
+
+> **Wondering which CMS—Decap, Tina.io, Contentful, or Strapi—suits your needs?** Check out my next blog post [here](/post/cms-decap-tina-contentful-strapi)
