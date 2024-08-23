@@ -1,5 +1,11 @@
 [
 	{
+		"title": "Unit vs. Integration Testing Simplified",
+		"description": "Learn how unit and integration testing work together to ensure software reliability, with insights into testing frameworks used in popular technologies like React, Rails, and Django.",
+		"dateFormatted": "Aug 24th, 2024",
+		"link": "/post/unit-integration-test"
+	},
+	{
 		"title": "Decap, Tina.io, Contentful, Strapi: Which CMS Suits Your Needs?",
 		"description": "A straightforward comparison of these popular CMSs, using real-world scenarios to help you decide which one to choose.",
 		"dateFormatted": "Aug 19th, 2024",
