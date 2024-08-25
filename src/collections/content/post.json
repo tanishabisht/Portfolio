@@ -1,5 +1,11 @@
 [
 	{
+		"title": "GraphQL vs REST: Key Differences and When to Use Each",
+		"description": "This article explores highlighting the key differences between GraphQL and REST and providing clear examples to guide you.",
+		"dateFormatted": "Aug 26th, 2024",
+		"link": "/post/graphql-vs-restapi"
+	},
+	{
 		"title": "Unit vs. Integration Testing: A To-Do List Example Across Frameworks",
 		"description": "Discover how to effectively use unit and integration testing in your projects, with a focus on React, Ruby on Rails, and Django.",
 		"dateFormatted": "Aug 25th, 2024",
